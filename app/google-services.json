@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316871477318",
+    "project_id": "studentmarket-001-6bd79",
+    "storage_bucket": "studentmarket-001-6bd79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316871477318:android:094f8495c086426882e247",
+        "android_client_info": {
+          "package_name": "com.example.studentmarket_001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316871477318-sbhg4276bvqk2gn7j3jqg0sduh65krpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXkMmgB1oHKxov1kKrI0nLQiDvAsRCCXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316871477318-sbhg4276bvqk2gn7j3jqg0sduh65krpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
